@@ -25,7 +25,7 @@ author     : SUNG YERI
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-ZCB631F40W #Google Analytics tracking code here
 
 collections:
   portfolio:
@@ -34,4 +34,4 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/mgebpbdw"

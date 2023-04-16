@@ -8,11 +8,11 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Posts"
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
+    - title: "Page"
       section: about
     - title: "Contact"
       section: contact
