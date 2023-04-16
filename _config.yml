@@ -1,25 +1,23 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
+
+# This config file is meant for settings that affect your whole blog values which you are expected to set up once and rarely edit after that.
+# i.e. 웹 페이지 환경설정(configuration) 정보 보관 파일
 # This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
 # If you change this file, please restart the server process.
 
-# Site settings
-# are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Site settings are used to personalize your new site.
+# If you look in the HTML files, you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible in the templates via {{ site.myvariable }}.
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url    : "https://ye1lbly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/template" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : Ye1ls Castle
+email      : blossomy1d@google.com #this is also the email contact forms will go to
+description: "거꾸로 보는 세상"
+author     : SUNG YERI
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
